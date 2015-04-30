@@ -1,0 +1,218 @@
+Baby&Child	Baby & Child Tea	Baby & Child Tea
+Baby&Child	Baby Accessories	Accessories
+Baby&Child	Baby Accessories	Baby bottle
+Baby&Child	Baby Accessories	Breastfeeding
+Baby&Child	Baby Accessories	Plaything
+Baby&Child	Baby Accessories	Soother
+Baby&Child	baby food	
+Baby&Child	Bath
+Baby&Child	Body Care	Care creme
+Baby&Child	Body Care	Care lotion
+Baby&Child	Body Care	Care oil
+Baby&Child	Body Care	Care range
+Baby&Child	Body Care	Wet wipe
+Baby&Child	Dental Care	
+Baby&Child	Hair Care	
+Baby&Child	Toys	Crafting
+Baby&Child	Toys	Fun splash
+Baby&Child	Toys	Make-up
+Baby&Child	Toys	Playing
+Baby&Child	Toys	To paint
+Food Supplements	Anti-Stress	
+Food Supplements	Cardiovascular System	
+Food Supplements	Common Cold	
+Food Supplements	Joints & Muscles	
+Food Supplements	Juices	
+Food Supplements	Memory	
+Food Supplements	Metabolism	
+Food Supplements	Night's Rest	
+Food Supplements	Skin	
+Food Supplements	Vitality	
+Household Supplies	Brushes	
+Household Supplies	Cleansers	
+Household Supplies	Dishwashing	Automatic Dishwashin
+Household Supplies	Dishwashing	Manual Dishwashing
+Household Supplies	Laundry	Delicate Wash
+Household Supplies	Laundry	Laundry Care
+Household Supplies	Laundry	Laundry Detergent Li
+Household Supplies	Laundry	Laundry Detergent Po
+Household Supplies	Laundry	Soapnut Shells
+Household Supplies	Laundry	Stain Removers
+Household Supplies	Pest Control	
+Household Supplies	Plant Care	Plant Care
+Household Supplies	Plant Care	Seeds
+Natural Food	Ayurveda	Basics
+Natural Food	Ayurveda	Chutney
+Natural Food	Ayurveda	Cocos
+Natural Food	Ayurveda	Ghee
+Natural Food	Ayurveda	Spicy Specials
+Natural Food	Baking	Accessories
+Natural Food	Baking	Baking ingredients
+Natural Food	Baking	Binding Agents
+Natural Food	Baking	Gelling Agents
+Natural Food	Baking	Milk powder
+Natural Food	Baking	Pudding
+Natural Food	Baking	Sweetening
+Natural Food	Cereals	Flakes
+Natural Food	Cereals	Grain flakes
+Natural Food	Coffee	Accessories
+Natural Food	Coffee	Cappuccino
+Natural Food	Coffee	Cocoa
+Natural Food	Coffee	Confectionery
+Natural Food	Coffee	Drinking Chocolate
+Natural Food	Coffee	Espresso
+Natural Food	Coffee	Grain Coffee
+Natural Food	Coffee	Instant Coffee
+Natural Food	Coffee	Pure Coffee
+Natural Food	Cooking	Accessories
+Natural Food	Cooking	Bake
+Natural Food	Cooking	Corn
+Natural Food	Cooking	Finished products
+Natural Food	Cooking	Pasta
+Natural Food	Cooking	Pulses
+Natural Food	Cooking	Rice
+Natural Food	Cooking	Sauce
+Natural Food	Cooking	Seed
+Natural Food	Cooking	Soups
+Natural Food	Cooking	Vegetables
+Natural Food	Glutenfree	Baked
+Natural Food	Glutenfree	Cereals
+Natural Food	Glutenfree	Condiment
+Natural Food	Glutenfree	Cookies
+Natural Food	Glutenfree	Flour
+Natural Food	Glutenfree	Spreads
+Natural Food	Glutenfree	Sweets
+Natural Food	Glutenfree	To bake
+Natural Food	Glutenfree	To cook
+Natural Food	Macrobiotics	Accessories
+Natural Food	Macrobiotics	Condiments
+Natural Food	Macrobiotics	Dessert
+Natural Food	Macrobiotics	Grain products
+Natural Food	Macrobiotics	Miso
+Natural Food	Macrobiotics	Soy sauce
+Natural Food	Macrobiotics	Sushi
+Natural Food	Macrobiotics	Umeboshi
+Natural Food	Macrobiotics	Vegetables
+Natural Food	Pastries	Bread
+Natural Food	Pastries	Chips
+Natural Food	Pastries	"Pastries, savoury"
+Natural Food	Pastries	"Pastries, sweet"
+Natural Food	Pastries	Wafers
+Natural Food	Spreads	Chocolate
+Natural Food	Spreads	Fish
+Natural Food	Spreads	Fruity
+Natural Food	Spreads	Honey
+Natural Food	Spreads	Nuttily
+Natural Food	Spreads	Sausage
+Natural Food	Spreads	Spicy
+Natural Food	Sweets	Bars
+Natural Food	Sweets	Candies
+Natural Food	Sweets	Chewing Gum
+Natural Food	Sweets	Chocolate
+Natural Food	Sweets	Christmas
+Natural Food	Sweets	Confection
+Natural Food	Sweets	Fruit Gummy
+Natural Food	Sweets	Fruit Snacks
+Natural Food	Sweets	Ice Cream
+Natural Food	Sweets	Marzipan
+Natural Food	Vinegar & Oil	Balsamico
+Natural Food	Vinegar & Oil	Cocos oil
+Natural Food	Vinegar & Oil	Cooking oil
+Natural Food	Vinegar & Oil	Dressing
+Natural Food	Vinegar & Oil	Gourmet oil
+Natural Food	Vinegar & Oil	Mustard
+Natural Food	Vinegar & Oil	Olive Oil
+Natural Food	Vinegar & Oil	Specifics
+Natural Food	Vinegar & Oil	Vinegar
+Pet Supplies	Organic Cat Food	Dry Food for Cats
+Pet Supplies	Organic Cat Food	Snacks for Cats
+Pet Supplies	Organic Cat Food	Wet Food for Cats
+Pet Supplies	Organic Dog Food	Dog Snacks
+Pet Supplies	Organic Dog Food	Dry Food for Dogs
+Pet Supplies	Organic Dog Food	Wet Food for Dogs
+Pet Supplies	Pet Grooming	
+Recreation	Aromatic Products	Air Freshener
+Recreation	Aromatic Products	Electric Fragrance Lamps
+Recreation	Aromatic Products	Flavour Tissues
+Recreation	Aromatic Products	Fragrance Fountains
+Recreation	Aromatic Products	Fragrance Lamps
+Recreation	Aromatic Products	Fragrance Stones
+Recreation	Aromatic Products	Pomander
+Recreation	Burn Incense	Ear Candles
+Recreation	Burn Incense	Incense Accessories
+Recreation	Burn Incense	Incense Blends
+Recreation	Burn Incense	Incense Sticks
+Recreation	Burn Incense	Incense Substances
+Recreation	Burn Incense	Wish Paper
+Recreation	Candles & Tealight	
+Recreation	Essential Oils	Accessories
+Recreation	Essential Oils	Airsprays
+Recreation	Essential Oils	All-Natural Oils
+Recreation	Essential Oils	Essential Oil Blends
+Recreation	Essential Oils	Gift Sets
+Recreation	Essential Oils	Roll-ons
+Recreation	Gemstones	
+Recreation	Healthy Pillows	
+Recreation	Massage Accessories	
+Recreation	Sauna	
+Spices	Baking & Sweeten	
+Spices	Condiment Mixes	American
+Spices	Condiment Mixes	Asiatic
+Spices	Condiment Mixes	Ayurvedic
+Spices	Condiment Mixes	Curry
+Spices	Condiment Mixes	German
+Spices	Condiment Mixes	Mediterranean
+Spices	Condiment Mixes	Oriental
+Spices	Condiment Mixes	Salad
+Spices	Condiment Mixes	Sampler
+Spices	Herbs	Basil
+Spices	Herbs	Dill
+Spices	Herbs	Marjoram
+Spices	Herbs	Oregano
+Spices	Herbs	Other
+Spices	Herbs	Rosemary
+Spices	Herbs	Thyme
+Spices	Liquid Seasoning	
+Spices	Pepper	Black
+Spices	Pepper	Blend
+Spices	Pepper	Green
+Spices	Pepper	Pink
+Spices	Pepper	Specialities
+Spices	Pepper	White
+Spices	Salt	Accessories
+Spices	Salt	Flor de Sal
+Spices	Salt	Sea Salt
+Spices	Salt	Seasoned Salt
+Spices	Salt	Stone Salt
+Spices	Sauces	
+Spices	Single spices	Caraway
+Spices	Single spices	Cardamom
+Spices	Single spices	Chili
+Spices	Single spices	Cloves
+Spices	Single spices	Coriander
+Spices	Single spices	Curcuma
+Spices	Single spices	Nutmeg
+Spices	Single spices	Other
+Spices	Single spices	Paprika
+Spices	Single spices	Saffron
+Spices	Stock	
+Tea	Accessories	
+Tea	Ayurvedic	Chai Tea
+Tea	Ayurvedic	Fruit & Mint Tea
+Tea	Ayurvedic	Green Tea
+Tea	Ayurvedic	Herbal Tea
+Tea	Ayurvedic	Spice Tea
+Tea	Ayurvedic	Women's Tea
+Tea	Black	Black Tea Filter Bag
+Tea	Black	Black Tea Loose
+Tea	Fruit	Fruit Tea Filter Bag
+Tea	Fruit	Fruit Tea Loose
+Tea	Green	Green Tea Filter Bag
+Tea	Green	Green Tea Loose
+Tea	Herbal	Herbal Tea Filter Bag
+Tea	Herbal	Herbal Tea Loose
+Tea	Medicinal Herbs	Medicinal Herbs
+Tea	Medicinal Herbs	Medicinal Herbs Tea
+Tea	Rooibos	Rooibos Tea Filter Bag
+Tea	Rooibos	Rooibos Tea Loose
+Tea	Specials
